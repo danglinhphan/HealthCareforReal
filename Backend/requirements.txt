@@ -1,0 +1,13 @@
+fastapi
+mariadb
+uvicorn[standard]
+bcrypt
+pydantic[email]
+pydantic-settings
+python-jose[cryptography]
+python-multipart
+google-genai
+python-dotenv
+aiofiles
+requests
+sqlmodel
